@@ -1,0 +1,7 @@
+Pera Peric | Novi korisnik | €20
+Mika Mikic | Novi korisnik | €20
+Nikola Nikolic | Zamena rutera | €5
+Marko  Petrovic | IPTV | €20
+Milutin Milutinovic | Staticka ip| €50
+Pilip Pilipovic | Fiber internet | €40
+Dragan Savic | Fiber internet | €50

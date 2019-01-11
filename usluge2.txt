@@ -1,0 +1,14 @@
+Novi korisnik | €20.00
+Novi koirsnik bez nase opreme | €10.00
+Zamena rutera | €5.00
+Zamena rutera bez nase opreme | €20.00
+Izlazak terenaca | €30.00
+Izlazak terenaca bez nase opreme | €50.00
+Zamena opreme | €100.00
+IPTV | €20.00
+Fiber internet | €40.00
+IPTV za plus jedan TV | €7.00
+Video nadzor |  €250.00
+Podmrezavanje  | €5.00
+Staticka ip | €50.00 
+Forvardovanje porta | €3.00 

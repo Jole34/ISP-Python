@@ -1,0 +1,2 @@
+prviAdmin | junior | admin22
+drugiAdmin | senior | admin33
