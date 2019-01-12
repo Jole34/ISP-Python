@@ -6,7 +6,7 @@
 
 from UKIM import Administrator, Upravljanje, Usluge, Zahtevi
 
-odradjeno = []
+
 def login():
     print(">>> Ulogujte se kao administrator <<<\n")
     global korisnicko
@@ -194,6 +194,7 @@ def zavrsi():
 
 if __name__ == "__main__":
     zarada = 0
+    odradjeno = []
     main()
         
             
