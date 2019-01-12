@@ -136,7 +136,7 @@ def ispisiIntervencije():
 
 def ispisiIntervencijeS():
     print ("----- Sortirana lista usluga: ")
-    Usluge.sortirajJ()
+    Usluge.sortirajJS()
     for i in Usluge.uslugeSenior:
         print (Usluge.pregledUFajl(i))
 
